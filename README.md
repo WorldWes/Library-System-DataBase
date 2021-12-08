@@ -1,5 +1,5 @@
 # Library-System-DataBase
-A web application containing a library sign-up form that connects to a local host MySQL database. This application allows query operations such as insert, update and delete. This application uses multiple languages such as PHP, HTML, Bootstrap, Javascript, and SQL.
+A web application containing a library sign-up form that connects to a local host MySQL database. This application allows query operations such as insert, update and delete. This application uses multiple languages such as PHP, HTML, CSS, Bootstrap, Javascript, JQuery and SQL.
 
 Below the sign-up form, there is a table reflecting the live effect each change has on the database. This table also includes the current full table of patrons. The site table is directly connected to the MySQL database patron table, meaning any changes such as insert, update, or delete, will directly change in the database patron table file. 
 
